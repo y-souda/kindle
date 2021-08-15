@@ -1,0 +1,2 @@
+# kindle
+kindle用レポジトリ
